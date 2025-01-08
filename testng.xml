@@ -1,0 +1,11 @@
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/kriti/IdeaProjects/API_Assignement">
+        <classes>
+            <class name="Assignement_API.Assignement_2">
+                <methods>
+                    <include name="testCoinDesk"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
